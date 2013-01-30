@@ -1,7 +1,7 @@
 python-coursework
 =================
 
-#Python Coursework
+Python Coursework
 
 *In order to reach a final solution for this coursework, I used the technique of top-down design. I chose this type of design method because it makes creating of a complex program easier to do by breaking the problem into smaller and smaller parts. This also represents a good way to make a program easier to test and to be understood by other programmers.<br>
 *First of all, I created the main() function which represents the highest level of the program. Here I make a call to the getInputs() function which returns the validated input of the user. After that I begin to draw the patchwork using the drawPatchWork() function which makes a call to two separate functions, one for each patch design and also collects and stores into a list, important information about the drawn patches, like : patch type and patch colour which will be used for the advanced future.<br> 
